@@ -3,3 +3,5 @@ ColorModel: #pixelBits=32 numComponents=4 color space=java.awt.color.ICC_ColorSp
     transparency=3 has alpha=true isAlphaPre=false 
 ByteInterleavedRaster: width=480 height=295 
     #numDataElements 4 dataOff[0]=3
+
+A BufferedImage is comprised of a ColorMode and a Raster of image data.
